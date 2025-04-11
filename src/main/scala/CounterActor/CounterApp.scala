@@ -1,5 +1,7 @@
-import akka.actor.typed.{ActorSystem, Behavior}
+package CounterActor
+
 import akka.actor.typed.scaladsl.Behaviors
+import akka.actor.typed.{ActorSystem, Behavior}
 
 
 object CounterApp {
@@ -35,8 +37,9 @@ object CounterApp {
     system ! Increment
     system ! GetCount
 
-    import scala.concurrent.duration._
     import system.executionContext
+
+    import scala.concurrent.duration._
 
     val printer = ActorSystem[Int](
       Behaviors.receiveMessage[Int] { count =>
