@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/dummy-akka-projects_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$ShowCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$ShowCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$Increment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$Increment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$CounterCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$CounterCommand.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$Counter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$Counter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$GetCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$GetCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$ShowCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$ShowCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CounterApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/renan/IdeaProjects/dummy_actor/target/scala-2.13/classes/CounterApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
